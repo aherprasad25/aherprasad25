@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Aher</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/5ce227db-ae9e-4352-96cd-aa324b53f19c">
 
 - 🌱 I’m currently learning **Power BI, SQL, Python**
 
