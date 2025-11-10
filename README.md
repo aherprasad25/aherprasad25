@@ -15,11 +15,13 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, SQL, C++, C 
-**Data & BI:** Power BI, Excel
-**Databases:** MySQL, SQL Server  
-**Tools:** Git, VS Code, Jupyter Notebook  
-**Concepts:** Data Visualization, ML Basics, ETL, Statistics
+**Languages:** Python, SQL, C, C++ <br>
+**Data & BI:** Power BI, Excel <br>
+**Databases:** MySQL, SQL Server <br>
+**Tools:** Git, VS Code, Jupyter Notebook <br>
+**Concepts:** Data Visualization, ML Basics, ETL, Statistics <br>
+
+
 
 ---
 
@@ -31,15 +33,6 @@
 | Superstore Sales Dashboard 📈 | Insights on sales & profit trends | Power BI, DAX |
 
 ▶️ Check all projects on my repositories!
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aherprasad25&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherprasad25&layout=compact&theme=radical" alt="languages" />
-</p>
 
 ---
 
