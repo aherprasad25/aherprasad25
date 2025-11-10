@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
 
-- 🌱 I’m currently learning **Power BI, SQL, Python**
+- 🌱 I’m currently learning **SQL, Python, Power BI**
 
 - 📫 How to reach me **aherprasad25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/prasad-aher-9126331ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prasad-aher-9126331ba" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prasad-aher-9126331ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prasad-aher-9126331ba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
