@@ -29,6 +29,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| Cricket Match Analytics 🏏 | SQL-based IPL match database with ball-by-ball analysis | SQL, MySQL |
 | Driver Drowsiness Detection 🚗 | Alerts drivers using eye-tracking | Python, OpenCV, ML |
 | Superstore Sales Dashboard 📈 | Insights on sales & profit trends | Power BI, DAX |
 
