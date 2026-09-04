@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prasad Aher</h1>
-<h3 align="center">Aspiring Data Analyst | Tech Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Engineering in Information Technology 
-- 📊 Passionate about Data Analytics  
-- 💡 Love solving real-world problems using data & automation
-- 💼 Actively applying for **Data Analyst** roles
+- 📊 Passionate about Software Development  
+- 💡 Love solving real-world problems
+- 💼 Actively applying for **Software Developer** roles
 
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, SQL, C, C++ <br>
+**Languages:** Java, Python, SQL, C, C++ <br>
 **Data & BI:** Power BI, Excel <br>
 **Databases:** MySQL, SQL Server <br>
 **Tools:** Git, VS Code, Jupyter Notebook <br>
